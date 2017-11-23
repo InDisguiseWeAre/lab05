@@ -1,0 +1,12 @@
+c:\users\ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\Ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\Ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\Ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\Ксения\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.csprojResolveAssemblyReference.cache
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Лабы Крипта\kyznechik\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
